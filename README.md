@@ -74,10 +74,10 @@ rails s
 Link to [localhost](http://localhost:3000/)
 
 ## Authors
-Edward Yara  
-- GitHub: [@oluyaratosin123](https://github.com/oluyaratosin123)
-- Twitter: [@TOluyara](https://twitter.com/TOluyara)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/edward-oluyara/)
+Dire Akanbi 
+- GitHub: [@DireAkanbi](https://github.com/direakanbi)
+- Twitter: [@DireAkanbi](https://twitter.com/DireAkanbi)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dire-akanbi/)
 
 
 ## 🤝 Contributing
